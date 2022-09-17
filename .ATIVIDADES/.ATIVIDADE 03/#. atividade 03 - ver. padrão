@@ -1,1 +1,18 @@
 #. ATIVIDADE 03 - ver.padrão
+
+FASES DE UM PROJETO BANCO DE DADOS:
+
+01. MODELAGEM CONCEITUAL:
+- A modelagem conceitual será a fase responsável por descrever a estrutura de um banco de dados de forma independente 
+de um SGBD (Sistema Gerenciador de Banco de Dados) particular, assim capturando de maneira formal todos os 
+requisitos de informação de um banco de dados.
+
+02. PROJETO LÓGICO:
+- O projeto lógico é o nome dado a fase que representará a estrtura de dados em um banco de dados, sendo assim apresentando 
+o objetivo de avaliar as necessidades de uso do banco de dados pelos usuários e aplicações, realizando alterações e refinamentos 
+que venham a ser necessários para atingir o máximo nível de desempenho possível das operações sobre o banco de dados.
+
+03. PROJETO FÍSICO:
+- O projeto físico é a etapa final do projeto de banco de dados, ou seja, é nessa etapa onde todos os detalhes técnicos da implementação 
+são definidos. Dessa forma, é possível dizer que há um enriquecimento no modelo do banco de dados, com a aplicação de detalhes que apesar 
+de influenciarem o desempenho, não causam inteferência na sua funcionalidade.
