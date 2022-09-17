@@ -1,4 +1,9 @@
 #. ATIVIDADE 02 - ver. padrão
 
-01. SISTEMA ISOLADO: 
+01. SISTEMA ISOLADO:
+- Teremos um sistema isolado quando as funções estão sendo trabalhadas de forma individual sem haver qualquer 
+compartilhamento de dados. Nesse tipo de sistema, um problema que pode haver é a redundância de dados. 
+
 02. SISTEMA INTEGRADO:
+- Para denominarmos um sistema de integrado, basta que nele um dado precise ser adicionado apenas uma vez, isto porque
+este será comrpartilhado pelas funções, o que poderia ser uma solução para o problema da redudância de dados.
