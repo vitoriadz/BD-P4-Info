@@ -1,0 +1,33 @@
+#. ATIVIDADE 04 - ver.padrão
+
+CONCEITOS CENTRAIS DA ABORDAGEM ER:
+
+a) ENTIDADE:
+- Podemos definir entidade como um objeto existente no mundo real e que possui uma identificação distinta e um significado próprio. 
+Exemplificando: "Maria Vitória Diniz de Oliveira, CPF nº 111.222.333-44" É uma entidade, isto porque só pode existir uma única pessoa 
+com esse mesmo nome e CPF.
+
+b) RELACIONAMENTO:
+- Os relacionamentos em banco de dados são como associações entre tabelas que criamos no banco de dados fazendo uso de todas as orientações, 
+regras de junção para fazer a recuparação de dados. 
+
+c) ATRIBUTO:
+- Definimos um atributo como uma função que possui o papel de realizar o mapeamento em um conjunto de entidades em um domínio.
+
+d) DOMÍNIO DE UM ATRIBUTO:
+- O domínio como um conjunto de valores que são já definidos e nomeados, possui o papel de ficar disponível para um ou mais atributos 
+extraírem seus valores. 
+
+e) GENERALIZAÇÃO/ESPECIALIZAÇÃO:
+- Generalização e especialização tratam-se de conceitos utilizados para realizar a representação de objetos do mundo real que possuem atributos 
+iguais, porém podem ser categorizados e colocados em uma espécie de hierarquia que mostra o que faz uma entidade depender de outra da mesma categoria. 
+É possível também atribuir características próprias da entidade genérica a um subconjunto das entidades especializadas.
+
+f) ENTIDADE ASSOCIATIVA:
+- Uma entidade associativa é um termo usado para definir conexões que fazem uma descrição de relaciomento entre duas entidades diferentes que podem possuir 
+um relaciomento m:m. Com isso, é possível confirmar que as entidades associativas podem possuir de diversos relacionamentos e conexões. Além de que estas
+são usadas em tabelas de junção.
+
+g) CARDINALIDADE DE UM ATRIBUTO:
+- Cardinalidade ou grau de relacionamento é a forma de definir o número de vezes (número de ocorrências) que uma entidade está associada a outra entidade 
+graças ao relacionamento. 
