@@ -5,5 +5,6 @@
 compartilhamento de dados. Nesse tipo de sistema, um problema que pode haver é a redundância de dados. 
 
 02. SISTEMA INTEGRADO:
-- Para denominarmos um sistema de integrado, basta que nele um dado precise ser adicionado apenas uma vez, isto porque
-este será comrpartilhado pelas funções, o que poderia ser uma solução para o problema da redudância de dados.
+- Para denominarmos um sistema de sistema integrado, basta que haja um compartilhamento de dados, isto  é
+um dado será adicionado apenas uma vez e ele poderá ser acessado por demais sistemas e funcoes, o que pode ser
+uma solução para a rredundância  de dados.
